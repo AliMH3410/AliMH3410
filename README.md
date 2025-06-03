@@ -1,6 +1,7 @@
 <h1 align="center">
-  السلام على من اتبع الهدى!
-  I'm Ali Muhammad Hamed</h1>
+  السلام على من اتبع الهدى!<br>
+  I'm Ali Muhammad Hamed
+</h1>
 <h3 align="center">An enthusiastic Egyptian Muslim physics researcher and aspiring programmer with interests in Linux administration, DevOps, and data science.</h3>
 
 - 🌱 I’m currently learning **DevOps Technologies and Data Science**
