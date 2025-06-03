@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali Muhammad Hamed</h1>
+<h1 align="center">
+  السلام على من اتبع الهدى!
+  I'm Ali Muhammad Hamed</h1>
 <h3 align="center">An enthusiastic Egyptian Muslim physics researcher and aspiring programmer with interests in Linux administration, DevOps, and data science.</h3>
+
+- 🌱 I’m currently learning **DevOps Technologies and Data Science**
+
+- 📫 How to reach me **aliibnmohamed10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
