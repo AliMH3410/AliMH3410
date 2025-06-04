@@ -2,7 +2,7 @@
   السلام على من اتبع الهدى!<br>
   I'm Ali Muhammad Hamed
 </h1>
-<h3 align="center">An enthusiastic Egyptian Muslim physics researcher and aspiring programmer with interests in Linux administration, DevOps, and data science.</h3>
+<h3 align="center">An enthusiastic Muslim Egyptian physics researcher and aspiring programmer with interests in Linux administration, DevOps, and data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimh3410&label=Profile%20views&color=0e75b6&style=flat" alt="alimh3410" /> </p>
 
