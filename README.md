@@ -1,6 +1,6 @@
 <h1 align="center">
-  السلام على من اتبع الهدى!<br>
-  I'm Ali Muhammad Hamed
+  السلام عليكم ورحمة الله وبركاته!<br>
+  I'm Ali M. Hamed
 </h1>
 <h3 align="center">An enthusiastic Muslim Egyptian physics researcher with interests in data analysis, data science, and UI design using PySide6.</h3>
 
